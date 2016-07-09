@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'tBPliVOZ5oaqZCS2Yc5a3MdvqdEQN4eLgJn8dWAgGSXTb8qB', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'nGxuRaWkrKuFUW7Lk26GwtjFCKg749YOtZByLL1pmMWBCiE5', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [345513042], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Taas IOT for Elec.Imp Sensor', // Replaces Xively logo in the header
 		dataDuration	= '365days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
